@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: Om mig
 permalink: /about/
 ---
 
-Some information about you!
+Navn: Birk Klink
+<br/>
+Gruppenummer: 1
+<br/>
+Virksomhed/PO: TV2/Steffen Mogensen
+<br/>
+Projekt: AWEIQ (Activising Work Enviroment Improving Quiz)
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Kontakt
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[birk1288@edu.ucl.dk](mailto:birk1288@edu.ucl.dk)
