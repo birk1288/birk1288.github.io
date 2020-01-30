@@ -18,7 +18,7 @@ Færdigheder
 
 Den studerende kan
 
-  * Udvælge, beskrive og foretage litteratursøgning af en selvvalgt it-faglig pro-blemstilling
+  * Udvælge, beskrive og foretage litteratursøgning af en selvvalgt it-faglig problemstilling
 
   * Diskutere samfundsmæssige aspekter knyttet til det/de valgte emner
 
@@ -32,4 +32,4 @@ Den studerende kan
 
   * Selvstændigt sætte sig ind i nye emner inden for fagområdets teori og/eller praksis
 
-  * Perspektivere og relatere det/de valgte emner i forhold til uddannelsens øv-rige emneområder
+  * Perspektivere og relatere det/de valgte emner i forhold til uddannelsens øvrige emneområder
